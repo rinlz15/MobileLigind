@@ -1,0 +1,10 @@
+{
+  "description": "Create stunning landing pages for Mobile Legends Bang Bang, optimized for desktop, tablet, and mobile users to enhance engagement and attract players.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
